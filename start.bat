@@ -1,0 +1,3 @@
+@echo off
+echo Starting Product Authenticity System...
+node start.js 
